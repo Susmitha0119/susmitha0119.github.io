@@ -9,4 +9,4 @@ Application Development Analyst @ Accenture pvt ltd
 
 ### Projects
 Ecolab
-![profilepic](/assets/ProfilePic.jpeg)
+![profilepic](/assets/img/ProfilePic.jpeg)
