@@ -1,12 +1,236 @@
-# susmitha0119.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Susmitha Abburi | QA Analyst Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #1f2937;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    h2 {
+      color: #1f2937;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .contact a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Susmitha Abburi</h1>
+    <p>Application Development Analyst | QA Engineer</p>
+  </header>
+  <main>
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:susmitha.abburi435@gmail.com">susmitha.abburi435@gmail.com</a></p>
+      <p>Phone: +1 937-305-7030</p>
+      <p>LinkedIn | GitHub</p>
+    </section>
 
-### Education
-Computer Science, Masters
+    <section>
+      <h2>Professional Summary</h2>
+      <p>Detail-oriented QA Analyst with 4+ years of experience in software development and automation testing. Skilled in .NET, Java, Azure, and Selenium with a strong foundation in Agile methodologies. Recognized for contributions to enterprise-scale cloud-based applications and automation solutions.</p>
+    </section>
 
-### Work Experience
-Application Development Analyst @ Accenture pvt ltd
-- big impact project1!
+    <section>
+      <h2>Technical Skills</h2>
+      <ul>
+        <li><strong>Languages:</strong> Java, C#, Python, JavaScript, HTML</li>
+        <li><strong>Frontend:</strong> AEM, Bootstrap, Angular</li>
+        <li><strong>Backend:</strong> ASP.NET Core, Web APIs</li>
+        <li><strong>Cloud:</strong> Microsoft Azure, Azure DevOps</li>
+        <li><strong>QA Tools:</strong> Selenium, Postman, TestNG</li>
+        <li><strong>CI/CD:</strong> Azure Pipelines, Jenkins</li>
+        <li><strong>Database:</strong> SQL Server, MySQL</li>
+      </ul>
+    </section>
 
-### Projects
-Ecolab
-![ProfilePic](assets/ProfilePic.jpeg)
+    <section>
+      <h2>Experience</h2>
+      <h3>Application Development Analyst — Accenture Pvt Ltd</h3>
+      <p><em>Dec 2020 – Dec 2022, Pune, India</em></p>
+      <ul>
+        <li>Developed .NET-based applications with Azure integration for Ecolab Nalco Water.</li>
+        <li>Designed RESTful APIs, managed Azure Cosmos DB and SQL Server backends.</li>
+        <li>Automated testing using Selenium for enhanced coverage and faster delivery.</li>
+        <li>Led QA efforts and contributed to documentation, Agile planning, and sprint demos.</li>
+      </ul>
+
+      <h3>QA Intern — Phoenix Global</h3>
+      <p><em>June 2018 – Nov 2020, Hyderabad, India</em></p>
+      <ul>
+        <li>Performed API and smart contract testing for blockchain applications.</li>
+        <li>Automated tests with Postman and ensured stability across releases.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>Dance Studio Web Platform:</strong> Booking and scheduling platform with .NET backend.</li>
+        <li><strong>Alumni Event Android App:</strong> Event networking app using Java and Firebase.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Certifications</h2>
+      <ul>
+        <li>Microsoft Certified: Azure Fundamentals (AZ-900)</li>
+        <li>Microsoft Certified: Power Platform Fundamentals (PL-900)</li>
+        <li>Automation Full-Stack Engineer – Automation University</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li><strong>University of Dayton</strong> — MS in Computer Science, 2023–2025 (GPA: 3.62/4)</li>
+        <li><strong>GNITS, Hyderabad</strong> — BTech in IT, 2016–2020 (GPA: 7.62/10)</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Susmitha Abburi | QA Analyst Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #1f2937;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    h2 {
+      color: #1f2937;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .contact a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Susmitha Abburi</h1>
+    <p>Application Development Analyst | QA Engineer</p>
+  </header>
+  <main>
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:susmitha.abburi435@gmail.com">susmitha.abburi435@gmail.com</a></p>
+      <p>Phone: +1 937-305-7030</p>
+      <p>LinkedIn | GitHub</p>
+    </section>
+
+    <section>
+      <h2>Professional Summary</h2>
+      <p>Detail-oriented QA Analyst with 4+ years of experience in software development and automation testing. Skilled in .NET, Java, Azure, and Selenium with a strong foundation in Agile methodologies. Recognized for contributions to enterprise-scale cloud-based applications and automation solutions.</p>
+    </section>
+
+    <section>
+      <h2>Technical Skills</h2>
+      <ul>
+        <li><strong>Languages:</strong> Java, C#, Python, JavaScript, HTML</li>
+        <li><strong>Frontend:</strong> AEM, Bootstrap, Angular</li>
+        <li><strong>Backend:</strong> ASP.NET Core, Web APIs</li>
+        <li><strong>Cloud:</strong> Microsoft Azure, Azure DevOps</li>
+        <li><strong>QA Tools:</strong> Selenium, Postman, TestNG</li>
+        <li><strong>CI/CD:</strong> Azure Pipelines, Jenkins</li>
+        <li><strong>Database:</strong> SQL Server, MySQL</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <h3>Application Development Analyst — Accenture Pvt Ltd</h3>
+      <p><em>Dec 2020 – Dec 2022, Pune, India</em></p>
+      <ul>
+        <li>Developed .NET-based applications with Azure integration for Ecolab Nalco Water.</li>
+        <li>Designed RESTful APIs, managed Azure Cosmos DB and SQL Server backends.</li>
+        <li>Automated testing using Selenium for enhanced coverage and faster delivery.</li>
+        <li>Led QA efforts and contributed to documentation, Agile planning, and sprint demos.</li>
+      </ul>
+
+      <h3>QA Intern — Phoenix Global</h3>
+      <p><em>June 2018 – Nov 2020, Hyderabad, India</em></p>
+      <ul>
+        <li>Performed API and smart contract testing for blockchain applications.</li>
+        <li>Automated tests with Postman and ensured stability across releases.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>Dance Studio Web Platform:</strong> Booking and scheduling platform with .NET backend.</li>
+        <li><strong>Alumni Event Android App:</strong> Event networking app using Java and Firebase.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Certifications</h2>
+      <ul>
+        <li>Microsoft Certified: Azure Fundamentals (AZ-900)</li>
+        <li>Microsoft Certified: Power Platform Fundamentals (PL-900)</li>
+        <li>Automation Full-Stack Engineer – Automation University</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li><strong>University of Dayton</strong> — MS in Computer Science, 2023–2025 (GPA: 3.62/4)</li>
+        <li><strong>GNITS, Hyderabad</strong> — BTech in IT, 2016–2020 (GPA: 7.62/10)</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
