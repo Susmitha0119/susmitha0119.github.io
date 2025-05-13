@@ -1,7 +1,7 @@
 # 💼 Susmitha Abburi - QA Analyst Portfolio
 
 Welcome to my personal portfolio website!  
-![ProfilePic](assets/ProfilePic.jpeg)
+![ProfilePic](assets/ProfiePic.jpeg)
 I'm **Nagalakshmi Susmitha Abburi**, a passionate QA Analyst with 4+ years of experience in software development, testing, and cloud technologies.
 
 🔗 **Live Portfolio**: [View Website](https://susmitha0119.github.io)
